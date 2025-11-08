@@ -6,4 +6,3 @@ Section: B
 Branch: Computer Science Engineering
 Year of Admission: 2024
 College Name: Ghousia College of Engineering
-

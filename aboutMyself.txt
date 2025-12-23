@@ -3,10 +3,9 @@ Full Name: Reyan
 USN: 1GC24CS088
 Semester: Third
 Section: B
-Branch: Computer Science Engineering
+Branch: Computer Science And Engineering
 Year of Admission: 2024
 College Name: Ghousia College of Engineering
-<<<<<<< HEAD
-=======
-
->>>>>>> feature-branch
+S.S.L.C: Universal Public School
+P.U: Universal P.U College
+U.G: 2nd Year Computer Science And Engineering
